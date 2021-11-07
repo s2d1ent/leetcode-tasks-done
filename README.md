@@ -7,3 +7,4 @@ Number | Task | Code | Difficulty | Runtime | Memory
 13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](/code/roman_to_integer.cs) | Easy | 184 ms | 27 MB
 35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](code\search_insert_position.cs) | Easy | 163 ms | 26 MB
 260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C#](code\Single_Number_III.cs) | Medium | 852 ms | 42.1 MB
+7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](code\Reverse_Integer.cs) | Medium | 28 ms | 27.4 MB
