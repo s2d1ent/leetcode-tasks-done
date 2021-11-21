@@ -8,7 +8,10 @@ Number | Task | Code | Difficulty | Runtime | Memory
 175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |  [MySQL](/code/combine_two_tables.sql)| Easy | 287 ms | 0 B
 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](/code/palindrome_number.cs) | Easy | 132 ms | 19.4 MB
 13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](/code/roman_to_integer.cs) | Easy | 184 ms | 27 MB
-35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](code\search_insert_position.cs) | Easy | 163 ms | 26 MB
-260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C#](code\Single_Number_III.cs) | Medium | 852 ms | 42.1 MB
+35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](\code\search_insert_position.cs) | Easy | 163 ms | 26 MB
+260| [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C#](\code\Single_Number_III.cs) | Medium | 852 ms | 42.1 MB
 7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](code\Reverse_Integer.cs) | Medium | 28 ms | 27.4 MB
-Total| 10 | C#, MySql, JavaScript | - | - | -
+540| [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C#](\code\Single_Element_in_a_Sorted_Array.cs) | Medium | 488 ms | 39.8 MB
+448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C#](\code\Single_Element_in_a_Sorted_Array.cs) | Easy | 256 ms | 48.8 MB
+2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](\code\Add_Two_Numbers.cs) | Medium | 108 ms | 41.6 MB
+Total| 13 | C#, MySql, JavaScript | - | - | -
