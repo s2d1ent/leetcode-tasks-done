@@ -1,7 +1,7 @@
 # LeetCode tasks done
 Number | Task | Code | Difficulty | Runtime | Memory
 :---   | :--- | :---:| :--:       | ---:    | ---:
-344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [JS](\main\code\Reverse_String.js) | Easy | 112 ms | 45.6 MB
+344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [JS](\code\Reverse_String.js) | Easy | 112 ms | 45.6 MB
 1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C#](\main\code\Defanging_an_IP_Address.cs) | Easy | 80 ms | 23.4 MB
 1464| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [JS](\main\code\Maximum_Product_of_Two_Elements_in_an_Array.js) | Easy | 72 ms | 39.9 MB
 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](\main\code\two_sum.cs) | Easy | 851ms | 32.7 MB
