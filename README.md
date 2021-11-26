@@ -16,4 +16,5 @@ Number | Task | Code | Difficulty | Runtime | Memory
 2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Add_Two_Numbers.cs) | Medium | 108 ms | 41.6 MB
 66| [Plus One](https://leetcode.com/problems/plus-one/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Plus_One.cs) | Easy | 178 ms | 39.6 MB
 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Longest_Substring_Without_Repeating_Characters.cs) | Medium | 2765 ms | 499.1 MB
-Total| 13 | C#, MySql, JavaScript | - | - | -
+Total| 15 | C#, MySql, JavaScript | - | - | -
+
