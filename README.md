@@ -14,5 +14,6 @@ Number | Task | Code | Difficulty | Runtime | Memory
 540| [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Single_Element_in_a_Sorted_Array.cs) | Medium | 488 ms | 39.8 MB
 448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Single_Element_in_a_Sorted_Array.cs) | Easy | 256 ms | 48.8 MB
 2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Add_Two_Numbers.cs) | Medium | 108 ms | 41.6 MB
-66| [Plus One](https://leetcode.com/problems/plus-one/) | [C#](\tree\main\code\Plus_One.cs) | Easy | 178 ms | 39.6 MB
+66| [Plus One](https://leetcode.com/problems/plus-one/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Plus_One.cs) | Easy | 178 ms | 39.6 MB
+3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Longest_Substring_Without_Repeating_Characters.cs) | Medium | 2765 ms | 499.1 MB
 Total| 13 | C#, MySql, JavaScript | - | - | -
