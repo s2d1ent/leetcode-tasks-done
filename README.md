@@ -17,6 +17,6 @@ Number | Task | Code | Difficulty | Runtime | Memory
 66| [Plus One](https://leetcode.com/problems/plus-one/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Plus_One.cs) | Easy | 178 ms | 39.6 MB
 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Longest_Substring_Without_Repeating_Characters.cs) | Medium | 2765 ms | 499.1 MB
 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C#](https://github.com/s2d1ent/leetcode-tasks-done/tree/main/code/Hamming_Distance.cs) | Easy | 36 ms | 27.8 MB
-328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](/tree/main/code/Odd_Even_Linked_List.cs) | Medium | 16 ms | 11.8 MB
+328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](/code/Odd_Even_Linked_List.cs) | Medium | 16 ms | 11.8 MB
 Total| 17 | C#, C++, MySql, JavaScript | - | - | -
 
