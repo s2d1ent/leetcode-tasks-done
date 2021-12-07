@@ -18,6 +18,7 @@ Number | Task | Code | Difficulty | Runtime | Memory
 3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C#](/code/Longest_Substring_Without_Repeating_Characters.cs) | Medium | 2765 ms | 499.1 MB
 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C#](/code/Hamming_Distance.cs) | Easy | 36 ms | 27.8 MB
 328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](/code/Odd_Even_Linked_List.cpp) | Medium | 16 ms | 11.8 MB
-1352| [ Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [C#](/code/Product_of_the_Last_K_Numbers.cs) | Medium | 888 ms| 75.8 MB
-Total| 18 | C#, C++, MySql, JavaScript | - | - | -
+1352| [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [C#](/code/Product_of_the_Last_K_Numbers.cs) | Medium | 888 ms| 75.8 MB
+1290| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](/code/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp) | Easy | 0 ms | 8.4 MB
+Total| 19 | C#, C++, MySql, JavaScript | - | - | -
 
