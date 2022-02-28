@@ -20,5 +20,6 @@ Number | Task | Code | Difficulty | Runtime | Memory
 328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](/code/Odd_Even_Linked_List.cpp) | Medium | 16 ms | 11.8 MB
 1352| [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [C#](/code/Product_of_the_Last_K_Numbers.cs) | Medium | 888 ms| 75.8 MB
 1290| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](/code/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp) | Easy | 0 ms | 8.4 MB
-Total| 19 | C#, C++, MySql, JavaScript | - | - | -
+532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C#](/code/K_diff_pairs_in_an_array.cs) | Medium | 1494  ms | 40.8 MB
+Total| 20 | C#, C++, MySql, JavaScript | - | - | -
 
