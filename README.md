@@ -23,5 +23,6 @@ Number | Task | Code | Difficulty | Runtime | Memory
 532| [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C#](/code/K_diff_pairs_in_an_array.cs) | Medium | 1494  ms | 40.8 MB
 338| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](/code/Counting_Bits.cpp) | Easy | 204 ms | 8.5 MB
 150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](/code/evaluete_reverse_polish_notation.cpp) | Medium | 84 ms | 17.1 MB
-Total| 22 | C#, C++, MySql, JavaScript | - | - | -
+23| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](/code/Merge_k_Sorted_Lists.cpp) | Hard | 59 ms | 16.2 MB
+Total| 23 | C#, C++, MySql, JavaScript | - | - | -
 
